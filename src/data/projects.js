@@ -4,6 +4,13 @@ export const projects = {
   description: 'Projects I have completed are listed below',
   categories: [
     {
+      name: 'Oljedirektoratet',
+      list: [{
+        title: 'Lead Software Developer/Architect',
+        description: 'Sokkelbiblioteket - Portfolio of React apps & a common react component library/designsystem'
+      }]
+    },
+    {
       name: 'Sparebank 1/SR-Lab',
       list: [{
         title: 'Lead Software Developer/Architect',
@@ -13,6 +20,10 @@ export const projects = {
     {
       name: 'Utdanningsdirektoratet',
       list: [{
+        title: 'Designsystem',
+        description: 'React component library used in several apps developed by Udir.'
+      },
+      {
           title: 'Læreplanutikleren',
           url: 'http://læreplanutikleren.udir.no',
           description: 'Architect/lead developer. SPA for developing curriculums. Technologies including: React, .NET Core, Identity Server'
