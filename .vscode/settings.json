@@ -1,7 +1,0 @@
-{
-    "appService.zipIgnorePattern": [
-        "node_modules{,/**}"
-    ],
-    "appService.deploySubpath": "build",
-    "appService.defaultWebAppToDeploy": "/subscriptions/1f950e2c-2dab-4804-a727-f42526d0b8e3/resourceGroups/appsvc_rg_linux_northeurope/providers/Microsoft.Web/sites/kimoftedal"
-}
