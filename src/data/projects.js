@@ -1,20 +1,20 @@
 export const projects = {
   sectionTitle: '',
   icon: null,
-  description: 'Projects I have completed are listed below',
+  description: 'Below, are a list of projects I have been a part of',
   categories: [
     {
       name: 'Oljedirektoratet',
       list: [{
         title: 'Lead Software Developer/Architect',
-        description: 'Sokkelbiblioteket - Portfolio of React apps & a common react component library/designsystem'
+        description: 'Sokkelbiblioteket - Portfolio of React web apps'
       }]
     },
     {
-      name: 'Sparebank 1/SR-Lab',
+      name: 'Sparebank 1/SR-Labs',
       list: [{
         title: 'Lead Software Developer/Architect',
-        description: 'Mobile Applications based on React Native. Backend APIs based on Express/MongoDB'
+        description: 'Mobile Applications for iOS and Android based on React Native. Backend APIs based on Express/MongoDB'
       }]
     },
     {

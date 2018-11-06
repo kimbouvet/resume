@@ -6,7 +6,7 @@ export const experiences = {
     {
       title: 'Consultant',
       company: 'Bouvet ASA',
-      description: 'Software Developer, .NET, JavaScript',
+      description: 'Software Developer, Software Architect, .NET, JavaScript',
       companyLink: 'http://bouvet.com',
       companyShortDetail: '',
       date: '2012.06 - Present'
